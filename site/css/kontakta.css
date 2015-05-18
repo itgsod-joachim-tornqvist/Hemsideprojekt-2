@@ -1,0 +1,104 @@
+#Container {
+    background-color: rgb(39, 127, 28);
+    width: 881px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .85;
+}
+#Banner {
+
+    width: 69.6%;
+    height: 225px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#Menu {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+#Our-program {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+}
+#Our-program-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#Contact-us {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px lawngreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px lawngreen;
+    box-shadow:inset 0px 0px 0px 5px lawngreen;
+}
+#Contact-us-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#About-us {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+
+}
+#About-us-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#Apply-for-a-job {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+}
+#Apply-for-a-job-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#Kontakta-container {
+    width: 100%;
+    height: 100%;
+}
+#Chatt-box, #Telefon-box, #Email-box {
+    width: 27%;
+    height: 20%;
+    background-color: red;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: 5%;
+    float: left;
+}
+#Chatt-box-text, #Telefon-box-text, #Email-box-text, #Facebook-box-text, #Instagram-box-text, #Myspace-box-text {
+    text-align: center;
+    margin-top: 30%;
+    margin-bottom: auto;
+    vertical-align: middle;
+    color: black;
+
+}
+#Facebook-box, #Instagram-box, #Myspace-box {
+    width: 27%;
+    height: 20%;
+    background-color: red;
+    margin-top: 7%;
+    margin-right: auto;
+    margin-left: 5%;
+    float: left;
+}

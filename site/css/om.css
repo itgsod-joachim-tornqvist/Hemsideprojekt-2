@@ -1,0 +1,108 @@
+#Container {
+    background-color: rgb(39, 127, 28);
+    width: 881px;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .85;
+}
+#Banner {
+
+    width: 69.6%;
+    height: 225px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#Menu {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+#Our-program {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+}
+#Our-program-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#Contact-us {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+}
+#Contact-us-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#About-us {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px lawngreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px lawngreen;
+    box-shadow:inset 0px 0px 0px 5px lawngreen;
+
+}
+#About-us-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#Apply-for-a-job {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+}
+#Apply-for-a-job-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#About-us-info-box {
+    width: 100%;
+    height: 300px;
+    margin-top: 5%;
+}
+#About-us-info, #About-us-info-title {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+}
+#Our-teachers {
+    width: 100%;
+    height: 500px;
+}
+#Teacher1 {
+    margin-left: 10%;
+    float: left;
+}
+#Teacher2{
+    margin-left: 10%;
+    float: left;
+ }
+#Teacher3{
+    margin-left: 10%;
+    float: left;
+}
+#Chinese-names {
+    text-align: center;
+}
+#Job-names {
+    text-align: center;
+    margin-bottom: -1%;
+}

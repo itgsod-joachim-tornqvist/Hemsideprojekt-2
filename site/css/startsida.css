@@ -1,0 +1,60 @@
+#Container {
+    background-color: rgb(39, 127, 28);
+    width: 881px;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.85;
+}
+#Banner {
+
+    width: 69.6%;
+    height: 225px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#Menu {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+
+#About-us,#Contact-us, #Our-program, #Apply-for-a-job   {
+    width: 25%;
+    height: 50px;
+    background-color: green;
+    float: left;
+    -webkit-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    -moz-box-shadow:inset 0px 0px 0px 5px darkgreen;
+    box-shadow:inset 0px 0px 0px 5px darkgreen;
+
+}
+#About-us-text,#Apply-for-a-job-text,#Contact-us-text, #Our-program-text {
+    text-align: center;
+    vertical-align: middle;
+}
+#Latest {
+    margin-top: 5%;
+    margin-left: 4%;
+    width: 400px;
+    height: 50%;
+    float: left;
+}
+#Upcoming-events {
+    float: left;
+    width: 45%;
+    height: 51%;
+    margin-top: 5%;
+    margin-left: 2%;
+    border-style: solid;
+}
+#Upcoming-events-text {
+    margin-left: 23%;
+    margin-right: 23%;
+}
+#Object1, #Object2, #Object3, #Object4, #Object5,#Object6,#Object7,#Object8,#Object9,#Object10,#Object11,#Object12, #Object13 {
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
